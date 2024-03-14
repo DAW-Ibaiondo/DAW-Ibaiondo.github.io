@@ -1,0 +1,20 @@
+article{
+	width: 500px;
+	columns: 3 100px;
+	column-rule-style:solid
+}
+
+h2{
+	text-shadow: 8px 8px 4px violet;
+}
+h1{
+	font-family:"aladdin";
+	font-weight:normal;
+	
+}
+@font-face{
+  font-family: 'aladdin';
+  src:url(../fonts/aladdin.ttf);
+  font-style: normal;
+  font-weight: normal;
+}
