@@ -21,9 +21,7 @@ h2{
 	color: white;
 	font-weight: bold;
 	font-size: 80%;
-	text-align: left;
-	margin-left: 13px;
-	margin-right:5px;
+	text-align: left;	
 	background-image: url("../images/header_barralat.png");
 	height: 18px;
 	}
@@ -77,6 +75,8 @@ h2{
 #contenidoizquierda{
 	width: 100%;
 	height: 50%;
+	margin-left: 5px;
+	margin-right: 5px;
 	}
 
 #contenidoderecha{
@@ -112,6 +112,8 @@ h2{
 
 #contenidoizquierda{	
 	width: 25%;
+	margin-left: 5px;
+	margin-right: 5px;
 	}
 
 #contenidoderecha{	
@@ -146,6 +148,8 @@ h2{
 
 #contenidoizquierda{	
 	width: 25%;
+	margin-left: 5px;
+	margin-right: 5px;
 	}
 
 #contenidoderecha{
@@ -183,6 +187,8 @@ h2{
 
 #contenidoizquierda{	
 	width: 25%;
+	margin-left: 5px;
+	margin-right: 5px;
 	}
 
 #contenidoderecha{
