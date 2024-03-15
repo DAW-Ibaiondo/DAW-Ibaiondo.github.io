@@ -39,7 +39,7 @@ article img{
 	width:100%;	
 	text-align: center;	
 }
-aside p{
+nav p{
 	font-family: Cambria;
 	color: white;
 	font-weight: bold;
@@ -49,13 +49,13 @@ aside p{
 	background-image: url("../images/header_barralat.png");
 	height: 16px;
 }
-aside ul{
+nav ul{
 	font-family: Cambria;
 	font-size: 10px;	
 	color: black;
 	text-decoration: none;
 }
-aside img{
+nav img{
 	max-width: 100%;
 	width: 175px;
 	height: 60px;
