@@ -9,3 +9,6 @@
 
 # Resultados del Validador de links del W3C 
 # https://validator.w3.org/checklink?uri=https%3A%2F%2Fdaw-ibaiondo.github.io%2F&hide_type=all&depth=&check=Check
+
+# El cursor es un trabajo de Andrean Prabowo
+# https://www.flaticon.es/iconos-gratis/clicker-del-mouse 
