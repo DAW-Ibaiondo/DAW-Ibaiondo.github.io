@@ -114,6 +114,7 @@ aside img{
 	width: 25%;
 	min-width: 250px;
 	margin-right: 5px;
+	margin-top:15px;
 }
 #contenidoderecha{	
 	width: 75%;
@@ -138,6 +139,7 @@ aside img{
 	width: 25%;
 	min-width: 250px;
 	margin-right: 5px;
+	margin-top:15px;
 }
 #contenidoderecha{	
 	flex-direction: column;
@@ -162,6 +164,7 @@ aside img{
 	width: 25%;
 	min-width: 250px;
 	margin-right: 5px;
+	margin-top:15px;
 }
 #contenidoderecha{	
 	width: 75%;
