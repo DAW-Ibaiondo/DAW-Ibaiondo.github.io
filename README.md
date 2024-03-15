@@ -1,5 +1,4 @@
-# Ander Sanchez y Lander Ribera
-# DAW-Ibaiondo.github.io
+# DAW-Ibaiondo.github.io por Ander Sanchez y Lander Ribera
 
 # Resultados del Validador de HTML del W3C
 # https://validator.w3.org/nu/?doc=https%3A%2F%2Fdaw-ibaiondo.github.io%2F
