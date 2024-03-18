@@ -18,11 +18,12 @@ footer img{
 	width: 100%;
 }
 footer p{
-	font-family: Arial;
-	font-size: 11px;	
-	color: black;			/* HEMOS ESTADO A PUNTO DE QUITAR EL COLOR NEGRO Y EL VOLVER */
+	font-family: Cambria;
+	font-size: 80%;	
+	color: #189ED7;			/* HEMOS ESTADO A PUNTO DE QUITAR EL COLOR NEGRO Y EL VOLVER */
 	text-decoration: none;		/* A PONER EL SUBRAYADO DE LOS ENLACES PORQUE ES MUCHO MAS CLARO */
 	background-color:lightblue;
+	font-weight: bold;
 }
 h2{
 	color: #189ED7;
