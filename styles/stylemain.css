@@ -22,7 +22,6 @@ footer p{
 	font-size: 80%;	
 	color: #189ED7;			/* HEMOS ESTADO A PUNTO DE QUITAR EL COLOR NEGRO Y EL VOLVER */
 	text-decoration: none;		/* A PONER EL SUBRAYADO DE LOS ENLACES PORQUE ES MUCHO MAS CLARO */
-	background-color:lightblue;
 	font-weight: bold;
 }
 h2{
@@ -72,7 +71,7 @@ nav img{
 .copyleft {
 	display:inline-block;
 	transform: rotate(180deg);
-	color:black;
+	color:#189ED7;
 }
 .quitarpunto{
 	list-style-type:none;
