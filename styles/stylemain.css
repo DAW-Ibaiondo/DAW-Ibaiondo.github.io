@@ -49,8 +49,6 @@ nav p{
 	text-align: left;	
 	background-image: url("../images/header_barralat.png");
 	height: 16px;
-/*	margin-left:13px;	HEMOS DECIDIDO QUITAR EL MARGEN DE 13PX DE LA PARTE IZQUIERDA. LO APLICAMOS TAMBIEN A TODO EL MARGEN DE LA PÁGINA PERO 
-	NO NOS PARECIA QUE QUEDABA BIEN*/
 }
 nav ul{
 	font-family: Cambria;
