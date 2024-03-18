@@ -20,8 +20,8 @@ footer img{
 footer p{
 	font-family: Arial;
 	font-size: 11px;	
-	color: black;
-	text-decoration: none;
+	color: black;			/* HEMOS ESTADO A PUNTO DE QUITAR EL COLOR NEGRO Y EL VOLVER */
+	text-decoration: none;		/* A PONER EL SUBRAYADO DE LOS ENLACES PORQUE ES MUCHO MAS CLARO */
 	background-color:lightblue;
 }
 h2{
@@ -49,6 +49,8 @@ nav p{
 	text-align: left;	
 	background-image: url("../images/header_barralat.png");
 	height: 16px;
+/*	margin-left:13px;	HEMOS DECIDIDO QUITAR EL MARGEN DE 13PX DE LA PARTE IZQUIERDA. LO APLICAMOS TAMBIEN A TODO EL MARGEN DE LA PÁGINA PERO 
+	NO NOS PARECIA QUE QUEDABA BIEN*/
 }
 nav ul{
 	font-family: Cambria;
