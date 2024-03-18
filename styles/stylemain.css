@@ -63,6 +63,10 @@ nav img{
 	width: 175px;
 	height: 60px;
 }
+nav a{
+	text-decoration:none;
+	color:black;
+}
 .mapainteractivo{
 	width: 175px;
 	height: 60px;
